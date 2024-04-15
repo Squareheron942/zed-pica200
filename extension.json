@@ -4,7 +4,7 @@
   "authors": [
     "Finn Dooley"
   ],
-  "description": "pica200 GPU assembly syntax highlighting",
+  "description": "Syntax highlighting for PICA200 GPU assembly.",
   "repository": "https://github.com/Squareheron942/zed-pica200",
   "languages": {
     "pica200": "languages/pica200"
