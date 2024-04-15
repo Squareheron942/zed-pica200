@@ -1,0 +1,10 @@
+id = "PICA200"
+name = "PICA200"
+version = "0.0.1"
+schema_version = 1
+authors = ["Finn Dooley"]
+description = "Adds syntax highlighting for PICA200 GPU assembly."
+repository = "https://github.com/Squareheron942/zed-pica200"
+[grammars.pica200]
+repository = "https://github.com/Squareheron942/tree-sitter-pica200"
+commit = "800fddc9954cafe431517f04662e927e93596f33"
