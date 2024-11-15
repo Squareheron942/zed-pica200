@@ -1,12 +1,10 @@
 ; General
-(propname) @variable
-(meta
-  kind: (_) @keyword)
-(instruction
-  kind: (_) @function.call)
-(ident) @operator
-(reg) @type
-(accspec) @constructor
+(propname) @constant
+(meta) @keyword
+(instruction ) @function
+(ident) @variable
+(reg) @type.builtin
+(accspec) @type.qualifier
 
 ; Comments
 [
