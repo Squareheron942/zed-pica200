@@ -1,5 +1,5 @@
 id = "PICA200"
-name = "PICA200"
+name = "pica200"
 version = "0.0.2"
 schema_version = 1
 authors = ["Finn Dooley"]
